@@ -1,4 +1,4 @@
-# SuperHumanBenchmark-Reaction-test-cheater
+# SuperHumanBenchmark-Test-Cheater
 Cheats the reaction time test found at https://humanbenchmark.com/tests/reactiontime to get super fast scores.
 Now also cheats Typeing speed test found at https://humanbenchmark.com/tests/typing to get SuperHuman scores.
 
